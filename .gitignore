@@ -341,3 +341,8 @@ healthchecksdb
 
 # env
 envFlask/
+
+#zip
+*.zip
+
+*.log
